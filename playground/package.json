@@ -9,19 +9,19 @@
   },
   "dependencies": {
     "@shm-open/utilities": "1.4.1",
-    "react": "16.8.6",
+    "react": "16.14.0",
     "@shm-open/react-native-wechat": "1.1.1",
-    "react-native": "0.60.0"
+    "react-native": "0.64.2"
   },
   "devDependencies": {
     "@babel/core": "7.13.8",
     "@babel/runtime": "7.13.9",
-    "@react-native-community/eslint-config": "0.0.5",
+    "@react-native-community/eslint-config": "0.0.7",
     "babel-jest": "24.9.0",
     "eslint": "6.8.0",
     "jest": "24.9.0",
     "metro-react-native-babel-preset": "0.65.0",
-    "react-test-renderer": "16.8.6"
+    "react-test-renderer": "16.14.0"
   },
   "jest": {
     "preset": "react-native"
