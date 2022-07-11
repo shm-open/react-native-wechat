@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@shm-open/eslint-config-bundle": "1.9.12",
-    "@types/react-native": "0.69.2",
+    "@types/react-native": "0.69.3",
     "concurrently": "7.2.2",
     "msf-cli": "1.2.5",
     "standard-version": "9.5.0",
