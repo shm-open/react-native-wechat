@@ -42,7 +42,7 @@
     "@types/react-native": "0.72.8",
     "concurrently": "10.0.3",
     "msf-cli": "1.2.5",
-    "commit-and-tag-version": "12.7.3",
+    "commit-and-tag-version": "13.0.0",
     "typescript": "5.9.3"
   },
   "homepage": "https://github.com/shm-open/react-native-wechat",
